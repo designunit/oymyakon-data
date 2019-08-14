@@ -1,5 +1,86 @@
 {
-  "cases": [
+  "layers": [
+    {
+      "name": "cases",
+      "id": 1,
+      "color": "tomato",
+      "schemaContent": "",
+      "schema": {
+        "version": "1",
+        "editor": [
+          {
+            "field": "name",
+            "view": [
+              "input"
+            ]
+          }
+        ]
+      },
+      "featureIds": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        19,
+        20,
+        22,
+        23,
+        24,
+        25,
+        29,
+        31,
+        36,
+        39,
+        41,
+        43,
+        46,
+        48,
+        50,
+        55,
+        56,
+        60,
+        61,
+        166794488,
+        166795001,
+        166795002,
+        166795233,
+        166795234,
+        166795235,
+        166795236,
+        166796490,
+        166819634,
+        166819638,
+        167234459,
+        168127956,
+        168165092,
+        100,
+        101,
+        168165094,
+        168165095,
+        168165096,
+        168165097,
+        168165098,
+        168165099,
+        168165100,
+        168165101,
+        168165102,
+        168165103,
+        168165104,
+        168165105,
+        168165106,
+        168165107,
+        168165108,
+        168165109,
+        168165110,
+        168165111,
+        168165112,
+        168165113
+      ]
+    }
+  ],
+  "features": [
     {
       "id": 11,
       "feature": {
@@ -202,7 +283,6 @@
       "id": 19
     },
     {
-      "id": 20,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -226,10 +306,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 20
     },
     {
-      "id": 22,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -253,7 +333,8 @@
             }
           ]
         }
-      }
+      },
+      "id": 22
     },
     {
       "feature": {
@@ -328,7 +409,6 @@
       }
     },
     {
-      "id": 25,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -352,10 +432,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 25
     },
     {
-      "id": 29,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -379,10 +459,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 29
     },
     {
-      "id": 31,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -424,7 +504,8 @@
             }
           ]
         }
-      }
+      },
+      "id": 31
     },
     {
       "feature": {
@@ -481,7 +562,6 @@
       }
     },
     {
-      "id": 41,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -505,7 +585,8 @@
             }
           ]
         }
-      }
+      },
+      "id": 41
     },
     {
       "feature": {
@@ -535,7 +616,6 @@
       "id": 43
     },
     {
-      "id": 46,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -571,7 +651,8 @@
             }
           ]
         }
-      }
+      },
+      "id": 46
     },
     {
       "id": 48,
@@ -757,7 +838,6 @@
       "id": 60
     },
     {
-      "id": 61,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -781,10 +861,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 61
     },
     {
-      "id": 166794488,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -808,10 +888,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 166794488
     },
     {
-      "id": 166795001,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -877,7 +957,8 @@
             }
           ]
         }
-      }
+      },
+      "id": 166795001
     },
     {
       "feature": {
@@ -949,7 +1030,6 @@
       "id": 166795002
     },
     {
-      "id": 166795233,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -1015,10 +1095,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 166795233
     },
     {
-      "id": 166795234,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -1084,10 +1164,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 166795234
     },
     {
-      "id": 166795235,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -1123,10 +1203,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 166795235
     },
     {
-      "id": 166795236,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -1162,10 +1242,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 166795236
     },
     {
-      "id": 166796490,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -1201,7 +1281,8 @@
             }
           ]
         }
-      }
+      },
+      "id": 166796490
     },
     {
       "feature": {
@@ -1288,7 +1369,6 @@
       "id": 166819638
     },
     {
-      "id": 167234459,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -1302,7 +1382,7 @@
         "properties": {
           "id": 167234459,
           "name": "Ючюгей",
-          "description": "оленеводческий поселок\n\nРоссия, Республика Саха (Якутия), муниципальный район Оймяконский улус\n\nописание: оленеводческий поселок<br><br>Россия, Республика Саха (Якутия), муниципальный район Оймяконский улус<br>id: 167234459<br>iconContent: <br>iconCaption: поселок Ючюгей",
+          "description": "оленеводческий поселок\nСТАРТОВЫЙ",
           "cases": [
             {
               "id": 45,
@@ -1348,10 +1428,10 @@
             }
           ]
         }
-      }
+      },
+      "id": 167234459
     },
     {
-      "id": 168127956,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -1387,7 +1467,8 @@
             }
           ]
         }
-      }
+      },
+      "id": 168127956
     },
     {
       "feature": {
@@ -1423,7 +1504,6 @@
       "id": 168165092
     },
     {
-      "id": 100,
       "feature": {
         "type": "Feature",
         "geometry": {
@@ -1447,7 +1527,8 @@
             }
           ]
         }
-      }
+      },
+      "id": 100
     },
     {
       "feature": {
@@ -1487,25 +1568,6 @@
         "type": "Feature",
         "geometry": {
           "coordinates": [
-            144.82644603881252,
-            64.12643507706154
-          ],
-          "type": "Point"
-        },
-        "properties": {
-          "cases": [],
-          "name": "dfdfdf",
-          "id": 168165093,
-          "description": "dfdfdf"
-        }
-      },
-      "id": 168165093
-    },
-    {
-      "feature": {
-        "type": "Feature",
-        "geometry": {
-          "coordinates": [
             136.82064403260037,
             62.7883495448436
           ],
@@ -1513,7 +1575,7 @@
         },
         "properties": {
           "cases": [],
-          "name": "гостиница",
+          "name": "гостевой центр",
           "id": 168165094,
           "description": "СТАРТОВЫЙ ЭТАП\n"
         }
@@ -1570,7 +1632,7 @@
         },
         "properties": {
           "cases": [],
-          "name": "хостел",
+          "name": "HOM",
           "id": 168165097,
           "description": "СТАРТОВЫЙ"
         }
@@ -1728,6 +1790,157 @@
         }
       },
       "id": 168165105
+    },
+    {
+      "feature": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            147.115610506935,
+            63.040353132344045
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "cases": [],
+          "name": "гостевой дом",
+          "id": 168165106,
+          "description": "СТАРТОВЫЙ"
+        }
+      },
+      "id": 168165106
+    },
+    {
+      "feature": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            143.2346302318608,
+            64.56288288411709
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "cases": [],
+          "name": "HOM",
+          "id": 168165107,
+          "description": "СТАРТОВЫЙ"
+        }
+      },
+      "id": 168165107
+    },
+    {
+      "feature": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            143.582947179182,
+            62.56961122089175
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "cases": [],
+          "name": "camp",
+          "id": 168165108,
+          "description": "СТАРТОВЫЙ"
+        }
+      },
+      "id": 168165108
+    },
+    {
+      "feature": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            135.95466701758326,
+            64.08913429469568
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "cases": [],
+          "name": "suit",
+          "id": 168165109,
+          "description": "СТАРТОВЫЙ"
+        }
+      },
+      "id": 168165109
+    },
+    {
+      "feature": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            142.55797157186163,
+            64.62059196085613
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "cases": [],
+          "name": "<new feature>",
+          "id": 168165110
+        }
+      },
+      "id": 168165110
+    },
+    {
+      "feature": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            143.37121580255754,
+            64.61699813502591
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "cases": [],
+          "name": "camp",
+          "id": 168165111,
+          "description": "Оймяконские кисиляхи\nСТАРТОВЫЙ"
+        }
+      },
+      "id": 168165111
+    },
+    {
+      "feature": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            144.45478880426313,
+            63.14227499091494
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "cases": [],
+          "name": "suit",
+          "id": 168165112,
+          "description": "СТАРТОВЫЙ"
+        }
+      },
+      "id": 168165112
+    },
+    {
+      "feature": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            142.17841570458725,
+            63.29310936133977
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "cases": [],
+          "name": "SUIT ",
+          "id": 168165113,
+          "description": "СТАРТОВЫЙ"
+        }
+      },
+      "id": 168165113
     }
   ]
 }
