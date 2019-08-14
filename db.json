@@ -1,19 +1,17 @@
 {
   "layers": [
     {
-      "name": "cases",
+      "name": "Cases",
       "id": 1,
       "color": "tomato",
-      "schemaContent": "",
+      "schemaContent": "{\n  \"editor\": \"case-table\",\n  \"filter\": \"case-filter\",\n  \"markerText\": [\"get\", \"properties.cases.length\"]\n}",
       "schema": {
         "version": "1",
-        "editor": [
-          {
-            "field": "name",
-            "view": [
-              "input"
-            ]
-          }
+        "editor": "case-table",
+        "filter": "case-filter",
+        "markerText": [
+          "get",
+          "properties.cases.length"
         ]
       },
       "featureIds": [
