@@ -103,19 +103,39 @@
             "view": [
               "select",
               [
-                "С",
-                "Ц"
+                "СТАРТОВЫЙ",
+                "ЦЕЛЕВОЙ"
+              ]
+            ]
+          },
+          {
+            "field": "function",
+            "view": [
+              "select",
+              [
+                "ТРАНСПОРТ",
+                "ОБЪЕКТ"
               ]
             ]
           }
         ],
+        "markerColor": [
+          "fn",
+          "x",
+          "return {'ТРАНСПОРТ': 'yellow', 'ОБЪЕКТ': 'orangered'}[x.properties.function]"
+        ],
         "markerText": [
-          "get",
-          "properties.stage"
+          "fn",
+          "feature",
+          "return (feature.properties.stage || '')[0]"
+        ],
+        "filter": [
+          "stage",
+          "function"
         ]
       },
       "id": 2,
-      "schemaContent": "{\n  \"editor\": [\n    {\"field\": \"name\", \"view\": [\"input\"]},\n    {\"field\": \"description\", \"view\": [\"text\"]},\n    {\"field\": \"stage\", \"view\": [\"select\",\n      [\"С\", \"Ц\"]\n    ]}\n  ],\n  \"markerText\": [\"get\", \"properties.stage\"]\n}"
+      "schemaContent": "//jjj\n{\n  \"editor\": [\n    {\"field\": \"name\", \"view\": [\"input\"]},\n    {\"field\": \"description\", \"view\": [\"text\"]},\n    {\"field\": \"stage\", \"view\": [\"select\",\n      [\"СТАРТОВЫЙ\", \"ЦЕЛЕВОЙ\"]\n    ]},\n    {\"field\": \"function\", \"view\": [\"select\",\n      [\"ТРАНСПОРТ\", \"ОБЪЕКТ\"]\n    ]},\n  ],\n  \"markerColor\": [\n    \"fn\",\n    \"x\",\n    \"return {'ТРАНСПОРТ': 'yellow', 'ОБЪЕКТ': 'orangered'}[x.properties.function]\"\n  ],\n  \"markerText\": [\n    \"fn\",\n    \"feature\",\n    \"return (feature.properties.stage || '')[0]\",\n  ],\n  \"filter\": [\"stage\", \"function\"],\n}"
     }
   ],
   "features": [
@@ -1318,7 +1338,8 @@
               "season": "A"
             }
           ]
-        }
+        },
+        "id": 166796490
       },
       "id": 166796490
     },
@@ -1658,7 +1679,8 @@
           "name": "гараж волгобасов",
           "id": 168165096,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ",
+          "function": "ОБЪЕКТ"
         },
         "id": 168165096
       },
@@ -1679,7 +1701,7 @@
           "name": "HOM",
           "id": 168165097,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165097
       },
@@ -1700,7 +1722,8 @@
           "name": "ангар для дирижаблей",
           "id": 168165098,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ",
+          "function": "ТРАНСПОРТ"
         },
         "id": 168165098
       },
@@ -1721,7 +1744,7 @@
           "name": "стоянка дирижаблей",
           "id": 168165099,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165099
       },
@@ -1742,7 +1765,7 @@
           "name": "стоянка дирижаблей",
           "id": 168165100,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165100
       },
@@ -1763,7 +1786,8 @@
           "name": "стоянка для дирижабля",
           "id": 168165101,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ",
+          "function": "ОБЪЕКТ"
         },
         "id": 168165101
       },
@@ -1784,7 +1808,7 @@
           "name": "модернизированный аэропорт",
           "id": 168165102,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165102
       },
@@ -1805,7 +1829,8 @@
           "name": "модернизированная впп",
           "id": 168165103,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ",
+          "function": "ТРАНСПОРТ"
         },
         "id": 168165103
       },
@@ -1826,7 +1851,7 @@
           "name": "стоянка для дирижаблей",
           "id": 168165104,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165104
       },
@@ -1847,7 +1872,7 @@
           "name": "стоянка для дирижаблей",
           "id": 168165105,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165105
       },
@@ -1889,7 +1914,7 @@
           "name": "HOM",
           "id": 168165107,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165107
       },
@@ -1910,7 +1935,7 @@
           "name": "camp",
           "id": 168165108,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165108
       },
@@ -1951,7 +1976,7 @@
           "cases": [],
           "name": "<new feature>",
           "id": 168165110,
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165110
       },
@@ -1972,7 +1997,7 @@
           "name": "camp",
           "id": 168165111,
           "description": "Оймяконские кисиляхи\nСТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ"
         },
         "id": 168165111
       },
@@ -1993,7 +2018,8 @@
           "name": "suit",
           "id": 168165112,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ",
+          "function": "ТРАНСПОРТ"
         },
         "id": 168165112
       },
@@ -2014,7 +2040,8 @@
           "name": "SUIT ",
           "id": 168165113,
           "description": "СТАРТОВЫЙ",
-          "stage": "С"
+          "stage": "СТАРТОВЫЙ",
+          "function": "ТРАНСПОРТ"
         },
         "id": 168165113
       },
