@@ -1,0 +1,982 @@
+{
+    "nodes": [
+        {
+            "id": "users_lux",
+            "label": "люкс"
+        },
+        {
+            "id": "users_mass",
+            "label": "массовый туризм"
+        },
+        {
+            "id": "users_nomad",
+            "label": "номады"
+        },
+        {
+            "id": "users_group",
+            "label": "организованные группы до 12 человек"
+        },
+        {
+            "id": "users_startup",
+            "label": "стартаперы"
+        },
+        {
+            "id": "users_academtour",
+            "label": "академические туры"
+        },
+        {
+            "id": "users_researchers",
+            "label": "исследователи"
+        },
+        {
+            "id": "topic_eco",
+            "label": "первозданная природа"
+        },
+        {
+            "id": "topic_gulag",
+            "label": "история современности"
+        },
+        {
+            "id": "topic_oym",
+            "label": "социальная культура в экстремальных условиях"
+        },
+        {
+            "id": "season_w",
+            "label": "зима"
+        },
+        {
+            "id": "season_s",
+            "label": "лето"
+        },
+        {
+            "id": "season_m",
+            "label": "межсезонье"
+        },
+        {
+            "id": "infra_zeppelin",
+            "label": "дирижабль"
+        },
+        {
+            "id": "infra_volgobus",
+            "label": "snowbus"
+        },
+        {
+            "id": "infra_drone",
+            "label": "аэродрон"
+        },
+        {
+            "id": "infra_cargo_drone",
+            "label": "грузовой коптер"
+        },
+        {
+            "id": "infra_cert",
+            "label": "infra_cert"
+        },
+        {
+            "id": "infra_plane",
+            "label": "малая авиация"
+        },
+        {
+            "id": "infra_unit",
+            "label": "жилой модуль"
+        },
+        {
+            "id": "infra_suit",
+            "label": "спальный модуль"
+        },
+        {
+            "id": "infra_shelter",
+            "label": "\"спасательный\" модуль"
+        },
+        {
+            "id": "infra_camp",
+            "label": "хозмодуль для глэмпинга"
+        },
+        {
+            "id": "infra_hom",
+            "label": "резиденция"
+        },
+        {
+            "id": "infra_guest",
+            "label": "гостевой дом"
+        },
+        {
+            "id": "infra_infobox",
+            "label": "инфобокс"
+        },
+        {
+            "id": "infra_office",
+            "label": "проектный офис"
+        },
+        {
+            "id": "infra_bukhanka",
+            "label": "буханка"
+        },
+        {
+            "id": "infra_roads",
+            "label": "дороги"
+        },
+        {
+            "id": "infra_kayak",
+            "label": "infra_kayak"
+        },
+        {
+            "id": "infra_horse",
+            "label": "животноводческие фермы"
+        },
+        {
+            "id": "infra_dog",
+            "label": "infra_dog"
+        },
+        {
+            "id": "infra_hotel",
+            "label": "гостиница"
+        },
+        {
+            "id": "infra_palatka",
+            "label": "палатка"
+        },
+        {
+            "id": "infra_scc",
+            "label": "социально-культурный центр"
+        },
+        {
+            "id": "infra_timpton",
+            "label": "демонстрационный дом"
+        },
+        {
+            "id": "infra_scir",
+            "label": "научная резиденция"
+        },
+        {
+            "id": "place_oymyakon",
+            "label": "оймякон"
+        },
+        {
+            "id": "place_hotkey",
+            "label": "теплый ключ"
+        },
+        {
+            "id": "place_shelter",
+            "label": "\"спасательный\" модуль"
+        },
+        {
+            "id": "place_suit",
+            "label": "спальный модуль"
+        },
+        {
+            "id": "place_magadan",
+            "label": "магадан"
+        },
+        {
+            "id": "place_tomtor",
+            "label": "томтор"
+        },
+        {
+            "id": "place_kuranahsala",
+            "label": "куранах-сала"
+        },
+        {
+            "id": "place_drajni",
+            "label": "дражный"
+        },
+        {
+            "id": "place_yuchugey",
+            "label": "ючугей"
+        },
+        {
+            "id": "place_jacklondon_lake",
+            "label": "озеро джека лондона"
+        },
+        {
+            "id": "place_zirianka",
+            "label": "зырянка"
+        },
+        {
+            "id": "place_topolynoe",
+            "label": "тополиное"
+        },
+        {
+            "id": "place_kadikchan",
+            "label": "кадыкчан"
+        },
+        {
+            "id": "place_labinkir",
+            "label": "озеро лабынкыр"
+        },
+        {
+            "id": "place_nelkan",
+            "label": "нелькан"
+        },
+        {
+            "id": "place_yurti_meteo",
+            "label": "метеостанция юрты"
+        },
+        {
+            "id": "place_ustnera",
+            "label": "усть-нера"
+        },
+        {
+            "id": "place_handiga",
+            "label": "хандыга"
+        },
+        {
+            "id": "place_alisardakh_lake",
+            "label": "озеро алысардах"
+        },
+        {
+            "id": "place_karamken",
+            "label": "карамкен"
+        },
+        {
+            "id": "place_oym_kisiliahi",
+            "label": "оймяконские кисиляхи"
+        },
+        {
+            "id": "place_academic_hotkey",
+            "label": "place_academic_hotkey"
+        },
+        {
+            "id": "place_olchansky_pereval",
+            "label": "ольчанский перевал"
+        },
+        {
+            "id": "place_ortobalagan",
+            "label": "орто-балаган"
+        },
+        {
+            "id": "place_itik_kuel",
+            "label": "ытык-кюель"
+        },
+        {
+            "id": "place_juchugei",
+            "label": "ючугей"
+        },
+        {
+            "id": "place_honuu",
+            "label": "хонуу"
+        },
+        {
+            "id": "place_momontailake",
+            "label": "озеро момонтай"
+        },
+        {
+            "id": "place_jebarikihaia",
+            "label": "джебарики-хая"
+        },
+        {
+            "id": "place_emanjalake",
+            "label": "озеро эманджа"
+        },
+        {
+            "id": "place_susuman",
+            "label": "сусуман"
+        },
+        {
+            "id": "place_lenskiestolbi",
+            "label": "ленские столбы"
+        },
+        {
+            "id": "way_moto_1",
+            "label": "мотоцикл"
+        },
+        {
+            "id": "way_car_1",
+            "label": "автомобиль"
+        },
+        {
+            "id": "way_plane_1",
+            "label": "малая авиация"
+        },
+        {
+            "id": "way_boat_1",
+            "label": "каяк"
+        },
+        {
+            "id": "way_horse_1",
+            "label": "парнокопытные"
+        },
+        {
+            "id": "way_zeppelin_2",
+            "label": "дирижабль"
+        },
+        {
+            "id": "way_volgabus_2",
+            "label": "snowbus"
+        },
+        {
+            "id": "way_pontoneroad_2",
+            "label": "gjynjyyst ljhjub"
+        },
+        {
+            "id": "way_volgabus_noCO_3",
+            "label": "snowbus гибридный"
+        },
+        {
+            "id": "way_cargodrone3",
+            "label": "грузовой коптер"
+        }
+    ],
+    "links": [
+        {
+            "source": "users_group",
+            "target": "season_w",
+            "value": 102.99999999999997
+        },
+        {
+            "source": "season_w",
+            "target": "topic_gulag",
+            "value": 68.20000000000002
+        },
+        {
+            "source": "topic_gulag",
+            "target": "way_volgabus_noCO_3",
+            "value": 57.60000000000001
+        },
+        {
+            "source": "way_volgabus_noCO_3",
+            "target": "infra_suit",
+            "value": 20.5
+        },
+        {
+            "source": "infra_suit",
+            "target": "place_topolynoe",
+            "value": 15
+        },
+        {
+            "source": "users_group",
+            "target": "season_s",
+            "value": 102.39999999999998
+        },
+        {
+            "source": "season_s",
+            "target": "topic_gulag",
+            "value": 64.70000000000002
+        },
+        {
+            "source": "topic_gulag",
+            "target": "way_zeppelin_2",
+            "value": 75.30000000000003
+        },
+        {
+            "source": "way_zeppelin_2",
+            "target": "infra_suit",
+            "value": 19.5
+        },
+        {
+            "source": "users_group",
+            "target": "season_m",
+            "value": 59.900000000000006
+        },
+        {
+            "source": "season_m",
+            "target": "topic_gulag",
+            "value": 51.600000000000016
+        },
+        {
+            "source": "topic_gulag",
+            "target": "way_cargodrone3",
+            "value": 13.5
+        },
+        {
+            "source": "way_cargodrone3",
+            "target": "infra_suit",
+            "value": 10.5
+        },
+        {
+            "source": "topic_gulag",
+            "target": "way_volgabus_2",
+            "value": 31.1
+        },
+        {
+            "source": "way_volgabus_2",
+            "target": "infra_guest",
+            "value": 7.5
+        },
+        {
+            "source": "infra_guest",
+            "target": "place_hotkey",
+            "value": 4.5
+        },
+        {
+            "source": "way_zeppelin_2",
+            "target": "infra_scir",
+            "value": 126
+        },
+        {
+            "source": "infra_scir",
+            "target": "place_hotkey",
+            "value": 64.5
+        },
+        {
+            "source": "users_startup",
+            "target": "season_s",
+            "value": 8
+        },
+        {
+            "source": "users_startup",
+            "target": "season_m",
+            "value": 8
+        },
+        {
+            "source": "users_startup",
+            "target": "season_w",
+            "value": 8
+        },
+        {
+            "source": "users_researchers",
+            "target": "season_s",
+            "value": 45
+        },
+        {
+            "source": "users_researchers",
+            "target": "season_m",
+            "value": 50
+        },
+        {
+            "source": "users_researchers",
+            "target": "season_w",
+            "value": 40
+        },
+        {
+            "source": "users_academtour",
+            "target": "season_s",
+            "value": 24
+        },
+        {
+            "source": "users_academtour",
+            "target": "season_m",
+            "value": 21
+        },
+        {
+            "source": "users_academtour",
+            "target": "season_w",
+            "value": 27
+        },
+        {
+            "source": "way_volgabus_noCO_3",
+            "target": "infra_scir",
+            "value": 55.5
+        },
+        {
+            "source": "users_lux",
+            "target": "season_s",
+            "value": 4
+        },
+        {
+            "source": "topic_gulag",
+            "target": "way_plane_1",
+            "value": 3
+        },
+        {
+            "source": "way_plane_1",
+            "target": "infra_scir",
+            "value": 3
+        },
+        {
+            "source": "users_lux",
+            "target": "season_w",
+            "value": 6
+        },
+        {
+            "source": "users_lux",
+            "target": "season_m",
+            "value": 5
+        },
+        {
+            "source": "users_nomad",
+            "target": "season_s",
+            "value": 20.399999999999995
+        },
+        {
+            "source": "way_volgabus_2",
+            "target": "place_kuranahsala",
+            "value": 1.7999999999999998
+        },
+        {
+            "source": "users_nomad",
+            "target": "season_w",
+            "value": 17.199999999999996
+        },
+        {
+            "source": "users_nomad",
+            "target": "season_m",
+            "value": 13.599999999999998
+        },
+        {
+            "source": "users_mass",
+            "target": "season_w",
+            "value": 13
+        },
+        {
+            "source": "season_w",
+            "target": "topic_oym",
+            "value": 88.39999999999998
+        },
+        {
+            "source": "topic_oym",
+            "target": "way_zeppelin_2",
+            "value": 67
+        },
+        {
+            "source": "way_zeppelin_2",
+            "target": "infra_hotel",
+            "value": 7
+        },
+        {
+            "source": "infra_hotel",
+            "target": "place_tomtor",
+            "value": 14
+        },
+        {
+            "source": "season_m",
+            "target": "topic_oym",
+            "value": 45.5
+        },
+        {
+            "source": "season_s",
+            "target": "topic_oym",
+            "value": 77.69999999999999
+        },
+        {
+            "source": "way_zeppelin_2",
+            "target": "infra_hom",
+            "value": 20.5
+        },
+        {
+            "source": "infra_hom",
+            "target": "place_tomtor",
+            "value": 14
+        },
+        {
+            "source": "topic_oym",
+            "target": "way_volgabus_noCO_3",
+            "value": 76.39999999999998
+        },
+        {
+            "source": "way_volgabus_noCO_3",
+            "target": "infra_hotel",
+            "value": 7
+        },
+        {
+            "source": "way_volgabus_noCO_3",
+            "target": "infra_hom",
+            "value": 13.299999999999999
+        },
+        {
+            "source": "way_zeppelin_2",
+            "target": "infra_timpton",
+            "value": 25.60000000000001
+        },
+        {
+            "source": "infra_timpton",
+            "target": "place_tomtor",
+            "value": 28
+        },
+        {
+            "source": "way_volgabus_noCO_3",
+            "target": "infra_timpton",
+            "value": 16
+        },
+        {
+            "source": "topic_oym",
+            "target": "infra_cargo_drone",
+            "value": 47.2
+        },
+        {
+            "source": "infra_cargo_drone",
+            "target": "place_tomtor",
+            "value": 7.5
+        },
+        {
+            "source": "users_mass",
+            "target": "season_s",
+            "value": 3
+        },
+        {
+            "source": "users_mass",
+            "target": "season_m",
+            "value": 1
+        },
+        {
+            "source": "infra_guest",
+            "target": "place_ustnera",
+            "value": 3
+        },
+        {
+            "source": "way_volgabus_2",
+            "target": "infra_hom",
+            "value": 3
+        },
+        {
+            "source": "infra_hom",
+            "target": "place_ustnera",
+            "value": 6
+        },
+        {
+            "source": "way_volgabus_2",
+            "target": "infra_unit",
+            "value": 18.800000000000004
+        },
+        {
+            "source": "infra_unit",
+            "target": "place_ustnera",
+            "value": 9
+        },
+        {
+            "source": "way_zeppelin_2",
+            "target": "infra_unit",
+            "value": 44.7
+        },
+        {
+            "source": "way_volgabus_2",
+            "target": "infra_hotel",
+            "value": 5.5
+        },
+        {
+            "source": "infra_hotel",
+            "target": "place_handiga",
+            "value": 5.5
+        },
+        {
+            "source": "infra_unit",
+            "target": "place_handiga",
+            "value": 5.5
+        },
+        {
+            "source": "infra_scir",
+            "target": "place_oymyakon",
+            "value": 59
+        },
+        {
+            "source": "way_zeppelin_2",
+            "target": "infra_scc",
+            "value": 4
+        },
+        {
+            "source": "infra_scc",
+            "target": "place_oymyakon",
+            "value": 8
+        },
+        {
+            "source": "topic_oym",
+            "target": "way_volgabus_2",
+            "value": 18
+        },
+        {
+            "source": "way_volgabus_2",
+            "target": "infra_scc",
+            "value": 4
+        },
+        {
+            "source": "way_volgabus_noCO_3",
+            "target": "infra_unit",
+            "value": 24.5
+        },
+        {
+            "source": "infra_unit",
+            "target": "place_oymyakon",
+            "value": 13.5
+        },
+        {
+            "source": "way_volgabus_2",
+            "target": "infra_scir",
+            "value": 5
+        },
+        {
+            "source": "infra_timpton",
+            "target": "place_oymyakon",
+            "value": 6
+        },
+        {
+            "source": "way_volgabus_2",
+            "target": "infra_timpton",
+            "value": 2
+        },
+        {
+            "source": "infra_cargo_drone",
+            "target": "place_oymyakon",
+            "value": 33
+        },
+        {
+            "source": "season_s",
+            "target": "topic_eco",
+            "value": 64.4
+        },
+        {
+            "source": "topic_eco",
+            "target": "way_boat_1",
+            "value": 2.7
+        },
+        {
+            "source": "way_boat_1",
+            "target": "infra_camp",
+            "value": 2.1
+        },
+        {
+            "source": "infra_camp",
+            "target": "place_yurti_meteo",
+            "value": 11.4
+        },
+        {
+            "source": "season_w",
+            "target": "topic_eco",
+            "value": 57.60000000000001
+        },
+        {
+            "source": "topic_eco",
+            "target": "way_volgabus_2",
+            "value": 3.6
+        },
+        {
+            "source": "way_volgabus_2",
+            "target": "infra_camp",
+            "value": 5.1
+        },
+        {
+            "source": "topic_eco",
+            "target": "infra_cargo_drone",
+            "value": 27.90000000000001
+        },
+        {
+            "source": "infra_cargo_drone",
+            "target": "infra_camp",
+            "value": 13.799999999999999
+        },
+        {
+            "source": "topic_eco",
+            "target": "way_horse_1",
+            "value": 15.299999999999999
+        },
+        {
+            "source": "way_horse_1",
+            "target": "infra_guest",
+            "value": 6
+        },
+        {
+            "source": "infra_guest",
+            "target": "place_labinkir",
+            "value": 18
+        },
+        {
+            "source": "season_m",
+            "target": "topic_eco",
+            "value": 61.400000000000006
+        },
+        {
+            "source": "topic_oym",
+            "target": "way_horse_1",
+            "value": 3
+        },
+        {
+            "source": "way_horse_1",
+            "target": "infra_camp",
+            "value": 6
+        },
+        {
+            "source": "infra_camp",
+            "target": "place_labinkir",
+            "value": 18
+        },
+        {
+            "source": "topic_eco",
+            "target": "way_zeppelin_2",
+            "value": 120
+        },
+        {
+            "source": "way_zeppelin_2",
+            "target": "infra_guest",
+            "value": 6
+        },
+        {
+            "source": "way_zeppelin_2",
+            "target": "infra_camp",
+            "value": 9
+        },
+        {
+            "source": "infra_cargo_drone",
+            "target": "infra_guest",
+            "value": 6
+        },
+        {
+            "source": "infra_scir",
+            "target": "place_labinkir",
+            "value": 24
+        },
+        {
+            "source": "way_horse_1",
+            "target": "infra_suit",
+            "value": 6.299999999999999
+        },
+        {
+            "source": "infra_suit",
+            "target": "place_alisardakh_lake",
+            "value": 12.599999999999998
+        },
+        {
+            "source": "infra_cargo_drone",
+            "target": "infra_suit",
+            "value": 12.599999999999998
+        },
+        {
+            "source": "infra_suit",
+            "target": "place_jacklondon_lake",
+            "value": 16
+        },
+        {
+            "source": "topic_eco",
+            "target": "way_volgabus_noCO_3",
+            "value": 10.299999999999999
+        },
+        {
+            "source": "topic_gulag",
+            "target": "infra_cargo_drone",
+            "value": 2.2
+        },
+        {
+            "source": "infra_cargo_drone",
+            "target": "place_drajni",
+            "value": 2.2
+        },
+        {
+            "source": "infra_unit",
+            "target": "place_zirianka",
+            "value": 3.6
+        },
+        {
+            "source": "infra_scir",
+            "target": "place_zirianka",
+            "value": 15
+        },
+        {
+            "source": "infra_hom",
+            "target": "place_kadikchan",
+            "value": 10.8
+        },
+        {
+            "source": "infra_unit",
+            "target": "place_kadikchan",
+            "value": 10.8
+        },
+        {
+            "source": "infra_unit",
+            "target": "place_karamken",
+            "value": 7.199999999999998
+        },
+        {
+            "source": "topic_gulag",
+            "target": "way_moto_1",
+            "value": 1.7999999999999998
+        },
+        {
+            "source": "way_moto_1",
+            "target": "infra_unit",
+            "value": 1.7999999999999998
+        },
+        {
+            "source": "infra_camp",
+            "target": "place_oym_kisiliahi",
+            "value": 4.2
+        },
+        {
+            "source": "topic_eco",
+            "target": "way_moto_1",
+            "value": 0.6
+        },
+        {
+            "source": "way_moto_1",
+            "target": "infra_camp",
+            "value": 0.6
+        },
+        {
+            "source": "way_volgabus_noCO_3",
+            "target": "infra_camp",
+            "value": 7.5
+        },
+        {
+            "source": "infra_camp",
+            "target": "place_olchansky_pereval",
+            "value": 7.5
+        },
+        {
+            "source": "infra_suit",
+            "target": "place_ortobalagan",
+            "value": 13.199999999999998
+        },
+        {
+            "source": "way_boat_1",
+            "target": "infra_suit",
+            "value": 0.6
+        },
+        {
+            "source": "infra_timpton",
+            "target": "place_itik_kuel",
+            "value": 3.6
+        },
+        {
+            "source": "infra_suit",
+            "target": "place_juchugei",
+            "value": 7.199999999999999
+        },
+        {
+            "source": "infra_unit",
+            "target": "place_juchugei",
+            "value": 7.199999999999999
+        },
+        {
+            "source": "infra_cargo_drone",
+            "target": "place_juchugei",
+            "value": 2.2
+        },
+        {
+            "source": "infra_scir",
+            "target": "place_honuu",
+            "value": 27
+        },
+        {
+            "source": "infra_unit",
+            "target": "place_honuu",
+            "value": 27
+        },
+        {
+            "source": "infra_suit",
+            "target": "place_momontailake",
+            "value": 3
+        },
+        {
+            "source": "infra_hom",
+            "target": "place_jebarikihaia",
+            "value": 6
+        },
+        {
+            "source": "infra_timpton",
+            "target": "place_jebarikihaia",
+            "value": 6
+        },
+        {
+            "source": "topic_eco",
+            "target": "way_cargodrone3",
+            "value": 3
+        },
+        {
+            "source": "infra_suit",
+            "target": "place_emanjalake",
+            "value": 3
+        },
+        {
+            "source": "way_cargodrone3",
+            "target": "infra_unit",
+            "value": 6
+        },
+        {
+            "source": "infra_unit",
+            "target": "place_susuman",
+            "value": 12
+        },
+        {
+            "source": "infra_camp",
+            "target": "place_lenskiestolbi",
+            "value": 3
+        }
+    ]
+}
