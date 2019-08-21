@@ -5,8 +5,8 @@
       "name": "Oymyakon",
       "layers": [
         1,
-        2,
-        3
+        3,
+        2
       ]
     }
   ],
@@ -14,7 +14,7 @@
     {
       "name": "Cases",
       "id": 1,
-      "color": "lime",
+      "color": "#ff00ff",
       "schemaContent": "{\n  \"editor\": \"case-table\",\n  \"filter\": \"case-filter\",\n  \"markerText\": [\"get\", \"properties.cases.length\"]\n}",
       "schema": {
         "version": "1",
@@ -67,7 +67,7 @@
     },
     {
       "name": "Stages",
-      "color": "#9b9b9b",
+      "color": "#ffffff",
       "readonly": false,
       "id": 2,
       "featureIds": [
