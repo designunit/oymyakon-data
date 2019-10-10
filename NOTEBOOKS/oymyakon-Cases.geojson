@@ -1,0 +1,1310 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9919273,
+                    62.5279244,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 13,
+                "name": "Мирный, алмазный карьер",
+                "description": "\n\nалмазный карьер",
+                "cases": [
+                    {
+                        "id": 141,
+                        "topic": "EXT",
+                        "user": "LUX",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 13
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    161.5064717,
+                    68.5132026,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 14,
+                "name": "Плейстоценовый парк",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 146,
+                        "topic": "EXT",
+                        "user": "LUX",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.3873352,
+                    70.4422216,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 15,
+                "name": "Улахан-Сис",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 143,
+                        "topic": "ECO",
+                        "user": "LUX",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.806549,
+                    62.779167,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 16,
+                "name": "Тёплый ключ",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 17,
+                        "topic": "GUL",
+                        "user": "RUS",
+                        "season": "A"
+                    },
+                    {
+                        "id": 18,
+                        "topic": "GUL",
+                        "user": "EU+JAP",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.1897068,
+                    61.3243295,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 19,
+                "name": "Бутугычаг",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 33,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1047187,
+                    60.2007108,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 20,
+                "name": "Карамкен",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 36,
+                        "topic": "INDS",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.3961002,
+                    58.6057234,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 22,
+                "name": "Алданский (ИТЛ)",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 38,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.841238,
+                    65.767376,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 23,
+                "name": "Зырянка",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 37,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    143.24293945684474,
+                    64.56642044806637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 24,
+                "name": "Усть-Нера",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 20,
+                        "topic": "GUL",
+                        "user": "RUS",
+                        "season": "W"
+                    },
+                    {
+                        "id": 21,
+                        "topic": "GUL",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 22,
+                        "topic": "GUL",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 23,
+                        "topic": "GUL",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    }
+                ]
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.9061549,
+                    56.8351892,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 25,
+                "name": "Чульман (Немнырлаг)",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 39,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 25
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.8549959,
+                    62.216473,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 29,
+                "name": "Джебарики-Хая",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 29,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 29
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.974722,
+                    64.073333,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 31,
+                "name": "Тополиное",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 6,
+                        "topic": "GUL",
+                        "user": "RUS",
+                        "season": "W"
+                    },
+                    {
+                        "id": 7,
+                        "topic": "GUL",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 8,
+                        "topic": "GUL",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 9,
+                        "topic": "GUL",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    }
+                ]
+            },
+            "id": 31
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.550781,
+                    62.352112,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 36,
+                "name": "Ытык-Кюель",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 35,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.443611,
+                    63.138889,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 39,
+                "name": "Куранах-Сала",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 31,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.5472925,
+                    64.6156736,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 41,
+                "name": "Ольчанский перевал",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 32,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.6111111,
+                    63.838889,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 43,
+                "name": "Делянкир",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 30,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 43
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5539801,
+                    62.6564079,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 46,
+                "name": "Хандыга",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 11,
+                        "topic": "GUL",
+                        "user": "RUS",
+                        "season": "A"
+                    },
+                    {
+                        "id": 12,
+                        "topic": "GUL",
+                        "user": "EU+JAP",
+                        "season": "A"
+                    },
+                    {
+                        "id": 13,
+                        "topic": "GUL",
+                        "user": "CHINA",
+                        "season": "W"
+                    }
+                ]
+            },
+            "id": 46
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.6166627,
+                    62.4941681,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 48,
+                "name": "Лабынкыр",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 0,
+                        "topic": "EXT",
+                        "user": "LUX",
+                        "season": "W"
+                    },
+                    {
+                        "id": 1,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "A"
+                    },
+                    {
+                        "id": 2,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "A"
+                    },
+                    {
+                        "id": 3,
+                        "topic": "OYM",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 4,
+                        "topic": "OYM",
+                        "user": "RUS",
+                        "season": "W"
+                    }
+                ]
+            },
+            "id": 48
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.443611,
+                    63.138889,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 50,
+                "name": "Куранах-Сала",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 31,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 50
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.05,
+                    63.083333,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 56,
+                "name": "Кадыкчан",
+                "description": "\n\nгород-призрак",
+                "cases": [
+                    {
+                        "id": 148,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 56
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    143.2057658889532,
+                    63.26099310708222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 60,
+                "name": "Томтор",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 153,
+                        "topic": "OYM",
+                        "user": "CHINA",
+                        "season": "W"
+                    },
+                    {
+                        "id": 154,
+                        "topic": "OYM",
+                        "user": "EU+JAP",
+                        "season": "A"
+                    },
+                    {
+                        "id": 155,
+                        "topic": "OYM",
+                        "user": "RUS",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 60
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.4436333,
+                    63.1389006,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 61,
+                "name": "Куранах-Сала",
+                "description": "\n\n",
+                "cases": [
+                    {
+                        "id": 31,
+                        "topic": "GUL",
+                        "user": "SPEC",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 61
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.145863,
+                    63.695172,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 166794488,
+                "name": "озеро Момонтай",
+                "description": "Россия, Магаданская область, Сусуманский городской округ, озеро Момонтай\n\nописание: Россия, Магаданская область, Сусуманский городской округ, озеро Момонтай<br>id: 166794488<br>iconContent: <br>iconCaption: озеро Момонтай Магаданская обалсть",
+                "cases": [
+                    {
+                        "id": 131,
+                        "topic": "ECO",
+                        "user": "LUX",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 166794488
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.027014,
+                    63.841802,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 166795001,
+                "name": "у реки Беппей",
+                "description": "Видовая у лагеря\nhttps://karpukhins.livejournal.com/130841.html\nМесто стоянки - 63грд.50,1с.ш. - 142грд.02,3в.д.. Поднимался на гору, которая начинается к западу от стоянки, соответственно уходил за обрез листа карты.\n\nописание: Видовая у лагеря<br>https://karpukhins.livejournal.com/130841.html<br>Место стоянки - 63грд.50,1с.ш. - 142грд.02,3в.д.. Поднимался на гору, которая начинается к западу от стоянки, соответственно уходил за обрез листа карты.<br>id: 166795001<br>iconContent: <br>iconCaption: точка 2 (?)",
+                "cases": [
+                    {
+                        "id": 66,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 67,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    },
+                    {
+                        "id": 68,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "S"
+                    },
+                    {
+                        "id": 69,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "W"
+                    },
+                    {
+                        "id": 70,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 71,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "W"
+                    },
+                    {
+                        "id": 72,
+                        "topic": "OYM",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 73,
+                        "topic": "OYM",
+                        "user": "RUS",
+                        "season": "W"
+                    }
+                ]
+            },
+            "id": 166795001
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.895349,
+                    64.049866,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 166795002,
+                "name": "метеостанция Юрты",
+                "description": "https://karpukhins.livejournal.com/131401.html\nМетеостанция находится здесь. Координаты - 64грд.с.ш.02,8-141грд.в.д.53,7\n\nописание: https://karpukhins.livejournal.com/131401.html<br>Метеостанция находится здесь. Координаты - 64грд.с.ш.02,8-141грд.в.д.53,7<br>id: 166795002<br>iconContent: <br>iconCaption: метеостанция Юрты",
+                "cases": [
+                    {
+                        "id": 75,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 76,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    },
+                    {
+                        "id": 77,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "S"
+                    },
+                    {
+                        "id": 78,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "W"
+                    },
+                    {
+                        "id": 79,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 80,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "W"
+                    },
+                    {
+                        "id": 81,
+                        "topic": "OYM",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 82,
+                        "topic": "OYM",
+                        "user": "RUS",
+                        "season": "W"
+                    }
+                ]
+            },
+            "id": 166795002
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.413166,
+                    64.266723,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 166795233,
+                "name": "устье реки Киняс-Юрях",
+                "description": "https://karpukhins.livejournal.com/131695.html\n\nописание: https://karpukhins.livejournal.com/131695.html<br>id: 166795233<br>iconContent: <br>iconCaption: точка 3",
+                "cases": [
+                    {
+                        "id": 84,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 85,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    },
+                    {
+                        "id": 86,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "S"
+                    },
+                    {
+                        "id": 87,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "W"
+                    },
+                    {
+                        "id": 88,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 89,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "W"
+                    },
+                    {
+                        "id": 90,
+                        "topic": "OYM",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 91,
+                        "topic": "OYM",
+                        "user": "RUS",
+                        "season": "W"
+                    }
+                ]
+            },
+            "id": 166795233
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.76799,
+                    64.279033,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 166795234,
+                "name": "река Тарын",
+                "description": "https://karpukhins.livejournal.com/132061.html\nТочка 64грд.,16,689с.ш.-142грд.,46,242в.д.\n\nописание: https://karpukhins.livejournal.com/132061.html<br>Точка 64грд.,16,689с.ш.-142грд.,46,242в.д.<br>id: 166795234<br>iconContent: <br>iconCaption: точка 4",
+                "cases": [
+                    {
+                        "id": 93,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 94,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    },
+                    {
+                        "id": 95,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "S"
+                    },
+                    {
+                        "id": 96,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "W"
+                    },
+                    {
+                        "id": 97,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 98,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "W"
+                    },
+                    {
+                        "id": 99,
+                        "topic": "OYM",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 100,
+                        "topic": "OYM",
+                        "user": "RUS",
+                        "season": "W"
+                    }
+                ]
+            },
+            "id": 166795234
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    143.32838610911028,
+                    64.63986939494303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 166795235,
+                "name": "ручей Поворотный",
+                "description": "https://karpukhins.livejournal.com/133094.html\n\nописание: https://karpukhins.livejournal.com/133094.html<br>id: 166795235<br>iconContent: <br>iconCaption: точка 5 лагерь Усть-Нера",
+                "cases": [
+                    {
+                        "id": 102,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 103,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    },
+                    {
+                        "id": 104,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "S"
+                    }
+                ]
+            },
+            "id": 166795235
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.383138,
+                    64.614949,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 166795236,
+                "name": "Оймяконские кисиляхи",
+                "description": "\n\nописание: <br>id: 166795236<br>iconContent: <br>iconCaption: Кисиляхи!!!!! Таас-Кыстаабыт",
+                "cases": [
+                    {
+                        "id": 41,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    },
+                    {
+                        "id": 42,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 43,
+                        "topic": "ECO",
+                        "user": "SPEC",
+                        "season": "S"
+                    }
+                ]
+            },
+            "id": 166795236
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.01761,
+                    63.163097,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 166796490,
+                "name": "Орто-Балаган + места выше по ре",
+                "description": "рыбалка в 20 км вверх по течению, 10 августа - 30 сентября\n\nописание: рыбалка в 20 км вверх по течению, 10 августа - 30 сентября<br>id: 166796490<br>iconContent: <br>iconCaption: Орто-Балаган",
+                "cases": [
+                    {
+                        "id": 110,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "A"
+                    },
+                    {
+                        "id": 111,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "A"
+                    },
+                    {
+                        "id": 112,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 166796490
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.397301,
+                    62.821681,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 166819634,
+                "name": "озеро Алысардах",
+                "description": "подледная рыбалка, март\nТеплые палатки\n\nhttps://www.oymiakon-tour.com/festival-polyus-holoda\n\nРоссия, Республика Саха (Якутия), муниципальный район Оймяконский улус, озеро Алысардах\n\nописание: подледная рыбалка, март<br>Теплые палатки<br><br>https://www.oymiakon-tour.com/festival-polyus-holoda<br><br>Россия, Республика Саха (Якутия), муниципальный район Оймяконский улус, озеро Алысардах<br>id: 166819634<br>iconContent: <br>iconCaption: озеро Алысардах",
+                "cases": [
+                    {
+                        "id": 114,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "A"
+                    },
+                    {
+                        "id": 115,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "A"
+                    },
+                    {
+                        "id": 116,
+                        "topic": "ECO",
+                        "user": "SOLO",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 166819634
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.528002,
+                    62.076856,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 166819638,
+                "name": "озеро Джека Лондона",
+                "description": "Россия, Магаданская область, Ягоднинский городской округ, озеро Джека Лондона\n\nописание: Россия, Магаданская область, Ягоднинский городской округ, озеро Джека Лондона<br>id: 166819638<br>iconContent: <br>iconCaption: озеро Джека Лондона Магаданская обл",
+                "cases": [
+                    {
+                        "id": 133,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 134,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    },
+                    {
+                        "id": 135,
+                        "topic": "ECO",
+                        "user": "LUX",
+                        "season": "S"
+                    },
+                    {
+                        "id": 136,
+                        "topic": "ECO",
+                        "user": "LUX",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 166819638
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.168033,
+                    63.302294,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 167234459,
+                "name": "Ючюгей",
+                "description": "оленеводческий поселок\nСТАРТОВЫЙ",
+                "cases": [
+                    {
+                        "id": 45,
+                        "topic": "OYM",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    },
+                    {
+                        "id": 46,
+                        "topic": "OYM",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 47,
+                        "topic": "OYM",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 48,
+                        "topic": "OYM",
+                        "user": "RUS",
+                        "season": "W"
+                    },
+                    {
+                        "id": 49,
+                        "topic": "OYM",
+                        "user": "SOLO",
+                        "season": "S"
+                    },
+                    {
+                        "id": 50,
+                        "topic": "OYM",
+                        "user": "SOLO",
+                        "season": "W"
+                    },
+                    {
+                        "id": 51,
+                        "topic": "OYM",
+                        "user": "LUX",
+                        "season": "A"
+                    }
+                ]
+            },
+            "id": 167234459
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.45812,
+                    63.91687,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 168127956,
+                "name": "Дражный + Нелькан",
+                "description": "Месторождение золото, с макроанализа\n\nописание: Месторождение золото, с макроанализа<br>id: 168127956<br>iconContent: <br>iconCaption: Дражный",
+                "cases": [
+                    {
+                        "id": 106,
+                        "topic": "INDS",
+                        "user": "SPEC",
+                        "season": "S"
+                    },
+                    {
+                        "id": 107,
+                        "topic": "INDS",
+                        "user": "SPEC",
+                        "season": "W"
+                    },
+                    {
+                        "id": 108,
+                        "topic": "INDS",
+                        "user": "LUX",
+                        "season": "S"
+                    }
+                ]
+            },
+            "id": 168127956
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.802002,
+                    65.778237,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 168165092,
+                "name": "река Чибагалах",
+                "description": "\n\nописание: <br>id: 168165092<br>iconContent: <br>iconCaption: река Чибагалах",
+                "cases": [
+                    {
+                        "id": 128,
+                        "topic": "ECO",
+                        "user": "RUS",
+                        "season": "S"
+                    },
+                    {
+                        "id": 129,
+                        "topic": "ECO",
+                        "user": "EU+JAP",
+                        "season": "S"
+                    }
+                ]
+            },
+            "id": 168165092
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.5721802,
+                    61.2267414,
+                    0
+                ]
+            },
+            "properties": {
+                "id": 100,
+                "name": "Ленские столбы",
+                "description": "\n\nописание: <br>id: <br>iconContent: <br>iconCaption: ",
+                "cases": [
+                    {
+                        "id": 138,
+                        "topic": "ECO",
+                        "user": "LUX",
+                        "season": "S"
+                    }
+                ]
+            },
+            "id": 100
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    142.7863989295982,
+                    63.463507007861665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 101,
+                "name": "Оймякон",
+                "description": "\n\nописание: <br>id: <br>iconContent: <br>iconCaption:",
+                "cases": [
+                    {
+                        "id": 150,
+                        "topic": "OYM",
+                        "user": "EU+JAP",
+                        "season": "W"
+                    },
+                    {
+                        "id": 151,
+                        "topic": "OYM",
+                        "user": "RUS",
+                        "season": "W"
+                    }
+                ]
+            },
+            "id": 101
+        }
+    ]
+}
